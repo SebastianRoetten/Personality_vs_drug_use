@@ -15,7 +15,7 @@ Before individuals can enter the webpage and explore the different product, they
 
 
 ## What files to look at
-EDA: Final_EDA.ipynb
+EDA: Final_EDA.ipynb  
 Completed model: SVC.ipynb
 
 
