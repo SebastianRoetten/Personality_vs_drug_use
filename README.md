@@ -3,10 +3,10 @@ Personality vs. Risk of Drug USe
 
 
 ## Environment
-'''bash
+```bash
 conda env create -n drugs -f environment.yml  
 conda install -c anaconda xlrd  
-'''
+```
 
 
 ## Stakeholder:
