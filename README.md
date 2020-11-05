@@ -15,8 +15,10 @@ Before individuals can enter the webpage and explore the different product, they
 
 
 ## What files to look at
-EDA: Final_EDA.ipynb  
-Completed model: SVC.ipynb
+Final_EDA.ipynb - Complete and final EDA 
+SVC.ipynb - Final model with error anaylsis and zooming in on errors
+data_cleaning.ipynb - Data cleaning process
+model_comparison.ipynb - Model testing
 
 
 ## Using the Model
