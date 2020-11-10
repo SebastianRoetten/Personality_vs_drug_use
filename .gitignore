@@ -4,3 +4,6 @@ models/*.sav
 # We do not commit data to github
 *.csv
 *.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
