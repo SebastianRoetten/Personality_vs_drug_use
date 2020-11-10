@@ -1,2 +1,6 @@
 data_model/*.csv
 models/*.sav
+
+# We do not commit data to github
+*.csv
+*.zip
